@@ -69,3 +69,5 @@ void printSum(int index, int n, int sum)
     }
     printf("\n%d Prime numbers smaller than %d\n",sum, n);
 }
+
+//This program will take numbers within a range and print only the prime numbers
